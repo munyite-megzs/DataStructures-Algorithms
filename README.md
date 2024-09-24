@@ -27,7 +27,6 @@ Welcome to the project! We encourage everyone to contribute. Here’s how to col
   git commit -m "Add topic: description of your solution"
 
 ## 5. Push your changes
-``bash
 git push origin topic/questionname-yourname
 
 ## 6. Create a pull request
